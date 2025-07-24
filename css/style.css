@@ -1,0 +1,15 @@
+body {
+	background-color: #ebebeb;
+	margin: 0;
+}
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+.image-container {
+	width: 400px;
+	max-width: 100%;
+	padding: 0 50px;
+}
